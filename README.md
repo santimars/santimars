@@ -13,8 +13,5 @@ Skills: SQL / PYTHON / JS / HTML / DOCKER
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=santimars)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=santimars)  
 
-![Profile views](https://gpvc.arturio.dev/santimars)  
