@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Santi Rodriguez 
+# Santi Rodriguez 
 #### Development
 ![Development](https://media.licdn.com/dms/image/D4E16AQFmHFlx4SwBJA/profile-displaybackgroundimage-shrink_350_1400/0/1688428569405?e=1694044800&v=beta&t=-T2NCC5k8Ye53fahCawgWceLuNwGjLsnfpUV5WgCUIw)
 
