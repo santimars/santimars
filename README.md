@@ -17,5 +17,5 @@ I'm Santiago Rodriguez from Colombia, and I do content Development. I really enj
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=santimars)  
+ 
 
