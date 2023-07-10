@@ -22,5 +22,4 @@ See you later Guys
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
 
-#### muy importante dejar de ser el fracaso 
 
