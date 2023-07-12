@@ -19,6 +19,11 @@ I'm Santiago Rodriguez from Colombia, and I do content Development. I really enj
 #### I have Speak in Spanish and English
 See you later Guys
 
+### Account Linkedln
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="santiago-rodríguez-723106225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sv.linkedin.com/in/santiago-rodr%C3%ADguez-723106225?trk=profile-badge">Santiago Rodríguez</a></div>
+              
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
 
