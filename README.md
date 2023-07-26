@@ -26,6 +26,8 @@ See you later Guys
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
 
+#### Muchas gracias por leer esto 🥇
+
               
 
 
