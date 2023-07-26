@@ -30,7 +30,7 @@ See you later Guys
 
 #### Muchas gracias por leer esto 🥇
 sigo ahora aprendiendo Dart y Flutter.
-now  i practic dart end flutter
+
 
 
 
