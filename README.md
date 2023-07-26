@@ -30,9 +30,6 @@ See you later Guys
 
               
 
-
-
-hay vamos el dia de hoy mañana editare de nuevo esyo y no estara escrito nada
-)  
+ 
 
 
