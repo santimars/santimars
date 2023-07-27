@@ -7,8 +7,11 @@ I live in El Salvador, and I do content Development. I really enjoy languages an
 ## Skills:
 
 ⌨️ Development 
-🐍 Python 
-🐳 Docker 
+
+🐍 Python
+
+🐳 Docker
+
 ⚛️ SQL
 
 - 🔭 I’m currently working on this page.
