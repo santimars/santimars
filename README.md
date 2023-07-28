@@ -1,5 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi, I'm Santi Rodriguez 
-#### Development Junior
+#### Development 
 ![Development](https://media.licdn.com/dms/image/D4E16AQFmHFlx4SwBJA/profile-displaybackgroundimage-shrink_350_1400/0/1688428569405?e=1694044800&v=beta&t=-T2NCC5k8Ye53fahCawgWceLuNwGjLsnfpUV5WgCUIw)
 
 I live in El Salvador, and I do content Development. I really enjoy languages and frameworks like Python, as well as working in WordPress, My SQL, and Docker. You can check out my Linkedln at [https://www.linkedin.com/in/santiago-esteban-rodr%C3%ADguez-guti%C3%A9rrez-723106225 ](https://www.linkedin.com/in/santi-rodriguez-/).
