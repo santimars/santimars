@@ -4,7 +4,6 @@
 
 I live in El Salvador, and I do content Development. I really enjoy languages and frameworks like Python, as well as working in WordPress, My SQL, and Docker. You can check out my Linkedln at [https://www.linkedin.com/in/santiago-esteban-rodr%C3%ADguez-guti%C3%A9rrez-723106225 ](https://www.linkedin.com/in/santi-rodriguez-/).
 
-## Skills:
 
 ⌨️ Development 
 
