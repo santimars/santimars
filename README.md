@@ -6,8 +6,8 @@ I live in El Salvador, and I do content Development. I really enjoy languages an
 
 <img  alt="daga-banner" src="./images/funny-jacket.gif" width="800"/>
 
-
 </div>
+
 ## Skills:
 
 ⌨️ Development 
