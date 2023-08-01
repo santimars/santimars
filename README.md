@@ -6,6 +6,7 @@ I live in El Salvador, and I do content Development. I really enjoy languages an
 
 
 
+## Skills:
 
 <img  alt="daga-banner" src="./funny-jacket.gif" width="150"/>  
 </div>
