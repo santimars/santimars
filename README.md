@@ -34,10 +34,7 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='
 
 
 
-  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=santimars)  
-
+ 
 
 
 #### Muchas gracias por leer esto 🥇
@@ -70,7 +67,12 @@ sd
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
+
+![GitHub metrics](https://metrics.lecoq.io/santimars)  
 
 
