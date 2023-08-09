@@ -28,8 +28,10 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='
 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="santiago-rodríguez-723106225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sv.linkedin.com/in/santiago-rodr%C3%ADguez-723106225?trk=profile-badge">Santiago Rodríguez</a></div>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justo-wiz&" alt="justo-wiz" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
+  
 
 #### Muchas gracias por leer esto 🥇
 
