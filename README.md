@@ -48,7 +48,7 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-sd
+
 
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Lab-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
