@@ -14,7 +14,7 @@ I live in El Salvador, and I do content Development. I really enjoy languages an
 
 🐳 Docker
 
-⚛️ SQL
+⚛️ SQ
 
 - 🔭 I’m currently working on this page.
 
