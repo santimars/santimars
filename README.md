@@ -35,7 +35,7 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='
  
 
 
-#### Muchas gracias por leer esto 🥇
+#### Muchas gracias por leer 🥇
 
 ### I develop with
 
