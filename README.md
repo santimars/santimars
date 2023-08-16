@@ -19,8 +19,14 @@ I live in El Salvador, and I do content Development. I really enjoy languages an
 - 🔭 I’m currently working on this page.
 
 #### 🖥️ Personal links ⌨️
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)          [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/santimars)           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santi-rodriguez-/)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/santimars)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)         
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/santimars)          
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santi-rodriguez-/)         
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/santimars)  
+
 ![bird_run](https://github.com/santimars/santimars/assets/98999805/5fa22d76-c1fe-4422-95c5-82d1c5627d6e)
 ### I Speak English 🗽 and Spanish 💊
 
@@ -28,9 +34,7 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='
 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="santiago-rodríguez-723106225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sv.linkedin.com/in/santiago-rodr%C3%ADguez-723106225?trk=profile-badge">Santiago Rodríguez</a></div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
 
  
 
