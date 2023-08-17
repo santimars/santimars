@@ -2,7 +2,7 @@
 #### Development 
 ![Development](https://media.licdn.com/dms/image/D4E16AQFmHFlx4SwBJA/profile-displaybackgroundimage-shrink_350_1400/0/1688428569405?e=1694044800&v=beta&t=-T2NCC5k8Ye53fahCawgWceLuNwGjLsnfpUV5WgCUIw)
 
-I live in El Salvador, and I do content Development. I really enjoy languages and frameworks like Python, as well as working in WordPress,  My SQL, and Docker. actually i'm learning Flutter .
+I live in El Salvador, and I do Development. I really enjoy languages and frameworks like Python, as well as working in WordPress,  My SQL, and Docker. actually i'm learning Flutter .
 
 ## Skills:
 
