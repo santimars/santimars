@@ -79,4 +79,5 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
 
 ![GitHub metrics](https://metrics.lecoq.io/santimars)  
 
+[![Auto-merge PRs](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml/badge.svg)](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml)
 
