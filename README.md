@@ -10,7 +10,7 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
 
 ## Skills:
 
-<img  alt="daga-banner" src="./funny-jacket.gif" width="150"/>  
+  
 </div>
  ⌨️ Dart
 
