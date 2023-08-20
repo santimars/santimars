@@ -13,7 +13,6 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
  
  <h3                                       align="left"> I Speak English 🗽 and Spanish 💊 </h3>
 
-![bird_run](https://github.com/santimars/santimars/assets/98999805/5fa22d76-c1fe-4422-95c5-82d1c5627d6e)
 ### 🔗 Account Linkedln   
 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="santiago-rodríguez-723106225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sv.linkedin.com/in/santiago-rodr%C3%ADguez-723106225?trk=profile-badge">Santiago Rodríguez</a></div>
