@@ -17,38 +17,6 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
  <h3                                       align="left"> I Speak English 🗽 and Spanish 💊 </h3>
 
 
-### I Develop with
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-
-
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Lab-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-[<img src='https://img.shields.io/badge/pytest-blue.svg?style=for-the-badge&logo=pytest&logoColor=white' alt='dev' height='40'>](https://www.python.org/)
-[<img src=''>](&logo=visual-studio-code&logoColor=white)
-[<img src='https://img.shields.io/badge/pytest-blue.svg?style=for-the-badge&logo=pytest&logoColor=white' alt='dev' height='40'>](https://www.python.org/)
-[<img src=''>](https://www.python.org/)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PyTest](https://img.shields.io/badge/pytest-blue.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 - 🔭 I’m currently working on this page.
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
