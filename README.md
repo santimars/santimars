@@ -12,14 +12,12 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
 
 ![santimars's Stats](https://github-readme-stats.vercel.app/api?username=santimars&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
-![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
  
  <h3                                       align="left"> I Speak English 🗽 and Spanish 💊 </h3>
 
 
-#### Muchas gracias por leer 🥇
-
-### I develop with
+### I Develop with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
