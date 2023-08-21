@@ -9,7 +9,8 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
 
 ## 🖥️ Personal links ⌨️
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/santimars) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santi-rodriguez-/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/santimars)  
- 
+
+ ![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
  
  <h3                                       align="left"> I Speak English 🗽 and Spanish 💊 </h3>
 
