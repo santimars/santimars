@@ -16,9 +16,6 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
 ### 🔗 Account Linkedln   
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimars&show_icons=true)  
- 
 
 
 #### Muchas gracias por leer 🥇
