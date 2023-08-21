@@ -30,8 +30,10 @@ I live in El Salvador, and I do Development. I really enjoy languages and framew
 
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Lab-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [<img src='https://img.shields.io/badge/pytest-blue.svg?style=for-the-badge&logo=pytest&logoColor=white' alt='dev' height='40'>](https://www.python.org/)
+[<img src=''>](&logo=visual-studio-code&logoColor=white)
+[<img src='https://img.shields.io/badge/pytest-blue.svg?style=for-the-badge&logo=pytest&logoColor=white' alt='dev' height='40'>](https://www.python.org/)
+[<img src=''>](https://www.python.org/)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PyTest](https://img.shields.io/badge/pytest-blue.svg?style=for-the-badge&logo=pytest&logoColor=white)
