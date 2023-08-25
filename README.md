@@ -21,8 +21,9 @@ I live in El Salvador, and I do Development Database. I really enjoy languages a
 
 ![santimars's Stats](https://github-readme-stats.vercel.app/api?username=santimars&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
-
+![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
 
