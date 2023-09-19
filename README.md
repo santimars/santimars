@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi, I'm Santi Rodriguez 
 ![1688428569405](https://github.com/santimars/santimars/assets/98999805/402171de-3870-46ff-97e0-529defd4595c)
 ![1688428569405](https://github.com/santimars/santimars/assets/98999805/402171de-3870-46ff-97e0-529defd4595c)
-![20230126_144359](https://github.com/santimars/santimars/assets/98999805/9b333305-9a09-4aa4-a901-db3541a955c3)
+
 
 
 # Development
