@@ -1,5 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi, I'm Santi Rodriguez 
-![Development](https://media.licdn.com/dms/image/D4E16AQFmHFlx4SwBJA/profile-displaybackgroundimage-shrink_350_1400/0/1688428569405?e=1694044800&v=beta&t=-T2NCC5k8Ye53fahCawgWceLuNwGjLsnfpUV5WgCUIw)
+![20230210_081443](https://github.com/santimars/santimars/assets/98999805/4fd73db1-ac11-4ae6-952e-72f2db0340a6)
 # Development
 I live in El Salvador, and I do Database Development . I really enjoy languages and frameworks like Python, as well as working in WordPress,  My SQL, and Docker. actually i'm learning Flutter. 
 <h3 align="left">Languages and Tools:</h3>
