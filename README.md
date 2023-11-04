@@ -27,13 +27,12 @@ I live in El Salvador, and I do Database Development . I really enjoy languages 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="santiago-rodríguez-723106225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sv.linkedin.com/in/santiago-rodr%C3%ADguez-723106225?trk=profile-badge">Santi Rodríguez</a></div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/santimars)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santi-rodriguez-/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/santimars) 
+
 
 ![santimars's Stats](https://github-readme-stats.vercel.app/api?username=santimars&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
 ![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-d
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
 
