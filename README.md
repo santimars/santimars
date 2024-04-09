@@ -1,5 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi, I'm Santi Rodriguez
-![1688428569405](https://github.com/santimars/santimars/assets/98999805/402171de-3870-46ff-97e0-529defd4595c)
+
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/santimars/santimars/assets/98999805/246e49cf-5f92-4d76-8ddb-9414f4d406ad)
 
 # Development
 I live in Colombia, and I'm learning Data Analitycs. I really enjoy languages and frameworks like Python, Rust,MySQL and math..
