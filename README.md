@@ -39,5 +39,5 @@ I live in Colombia, and I'm learning Data Analitycs. I really enjoy languages li
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
 
 [![Auto-merge PRs](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml/badge.svg)](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml)
-.
+
 
