@@ -40,4 +40,7 @@ I live in Colombia, and I'm learning Data Analitycs. I really enjoy languages li
 
 [![Auto-merge PRs](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml/badge.svg)](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SpentRook&style=flat-square&color=blue" alt=""/>
+</div>
 
