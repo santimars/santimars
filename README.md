@@ -1,4 +1,4 @@
-# <img src="https://tenor.com/es-419/view/smolverse-smol-swol-jr-reaction-gif-4429220203416019700" width="40"/> Hi, I'm Santi Rodriguez
+# <img src="https://media.tenor.com/PXfATtiYYvQAAAAi/smolverse-smol.gif" width="40"/> Hi, I'm Santi Rodriguez
 
 ![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/santimars/santimars/assets/98999805/246e49cf-5f92-4d76-8ddb-9414f4d406ad)
 
