@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/uX1jpz5E4lcAAAAi/bmo-bounce.gif"/> Hi, I'm Santi Rodriguez
+# <img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif"/> Hi, I'm Santi Rodriguez
 
 ![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/santimars/santimars/assets/98999805/246e49cf-5f92-4d76-8ddb-9414f4d406ad)
 
