@@ -13,7 +13,7 @@ I live in Colombia, and I'm learning Data Analitycs. I really enjoy languages li
 
   
  If you would like to make a donation to support development, please use [GitHub Sponsors](https://github.com/sponsors/santimars).
-
+@W-R-T-O
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/santiagoesc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santiagoesc" /></a></p><br><br>
 
