@@ -2,14 +2,13 @@
 
 # Hey there, I'm Santi
 
-[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![Css](https://img.shields.io/Css/?style=flat&logo=typescript)](https://www.w3schools.com/css/)
-  
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Sql](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://www.w3schools.com/sql/) 
 <div align=left>
 
 
 
 
-![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/santimars/santimars/assets/98999805/246e49cf-5f92-4d76-8ddb-9414f4d406ad)
+
 
 # Data Analytics
 I live in Colombia, and I'm learning Data Analitycs. I really enjoy languages like Python, Rust,MySQL and math..
