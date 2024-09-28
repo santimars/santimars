@@ -1,13 +1,13 @@
 <div align=center>
 
-## Hey there, I'm Santi
+# Hey there, I'm Santi
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/) ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
   
 <div align=left>
 
 
-# <img src="https://media.tenor.com/DpbjXJnHCXcAAAAi/birb.gif"/> Hi, I'm Santi Rodriguez
+
 
 ![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/santimars/santimars/assets/98999805/246e49cf-5f92-4d76-8ddb-9414f4d406ad)
 
