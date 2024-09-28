@@ -2,7 +2,7 @@
 
 # Hey there, I'm Santi
 
-[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/) ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) [![sql](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/) [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/) ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
   
 <div align=left>
 
