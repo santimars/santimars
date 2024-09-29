@@ -43,7 +43,7 @@ from React to backend frameworks like Django, Flask, and many more.
 ![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
 ![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/santimars)](https://discord.com/users/santimars)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1063582183685623869)](https://discord.com/users/1063582183685623869)
 
 </details>
 <details>
