@@ -19,6 +19,8 @@ from React to backend frameworks like Django, Flask, and many more.
       
 <details>
   <summary>Current Projects</summary>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7246005381850624001" height="685" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+  [Google Event]()
   
  <details>
   <summary> Socials </summary>
