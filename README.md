@@ -15,8 +15,7 @@ I'm study Data analytics how student at International Polytechnic of Colombia ,s
 database management. I tend to work with full stack frameworks such as
 from React to backend frameworks like Django, Flask, and many more.
   
-</details>
-      
+</details>      
 <details>
   <summary>Current Projects</summary>
   
@@ -104,14 +103,11 @@ from React to backend frameworks like Django, Flask, and many more.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=santimars&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" />
 </a>
 
-</details>
-
 [![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=for-the-badge&logo=microsoft)](https://docs.microsoft.com/en-us/learn/)
 [![Amazon TRMS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=)](https://www.amazon.jobs/en-gb/teams/transaction-risk-management-systems)
 
-
----
 </details>
+
 <details>
 <summary> Support </summary>
   
