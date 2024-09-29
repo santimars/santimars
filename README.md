@@ -19,8 +19,8 @@ from React to backend frameworks like Django, Flask, and many more.
       
 <details>
   <summary>Current Projects</summary>
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7246005381850624001" height="685" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-  [Google Event]()
+  
+  [Google Event](https://www.linkedin.com/embed/feed/update/urn:li:share:7246005381850624001)
   
  <details>
   <summary> Socials </summary>
@@ -30,10 +30,27 @@ from React to backend frameworks like Django, Flask, and many more.
 
   </details>
 <details>
-  
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+  <summary> Stats </summary>
+  
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Santimars&style=flat-square&color=edb8ff" alt=""/>
+</div>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/santimars/github-profile-trophy)
+  
+![santimars's Stats](https://github-readme-stats.vercel.app/api?username=santimars&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
+![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/santimars)](https://discord.com/users/santimars)
+
+</details>
+<details>
+<summary> Portfolio </summary>
+
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 
 ### If you want to support what I do 
 
@@ -57,16 +74,11 @@ from React to backend frameworks like Django, Flask, and many more.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/santimars)
 
 
-![santimars's Stats](https://github-readme-stats.vercel.app/api?username=santimars&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
-![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
 
-[![Auto-merge PRs](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml/badge.svg)](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santimars&style=flat-square&color=blue" alt=""/>
-</div>
+
+
 
