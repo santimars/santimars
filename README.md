@@ -1,4 +1,4 @@
-<div align=center>
+⁸<div align=center>
 
 # Hey there, I'm Santi
 
@@ -113,7 +113,6 @@ from React to backend frameworks like Django, Flask, and many more.
   
  If you would like to make a donation to support development, please use [GitHub Sponsors](https://github.com/sponsors/santimars).
 
- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/santiagoesc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santiagoesc" /></a></p><br><br>
 
 
