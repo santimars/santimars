@@ -41,7 +41,7 @@ from React to backend frameworks like Django, Flask, and many more.
   
 ![santimars's Stats](https://github-readme-stats.vercel.app/api?username=santimars&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![santimars's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santimars&theme=dark&hide_border=true)
-![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1063582183685623869)](https://discord.com/users/1063582183685623869)
 
@@ -98,8 +98,9 @@ from React to backend frameworks like Django, Flask, and many more.
 [![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=Figma&logoColor=white)](https://figma.com)
 [![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
-
 ---
+<div align=center>
+![santimars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santimars&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 [![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=for-the-badge&logo=microsoft)](https://docs.microsoft.com/en-us/learn/)
 [![Amazon TRMS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=)](https://www.amazon.jobs/en-gb/teams/transaction-risk-management-systems)
