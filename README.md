@@ -13,7 +13,7 @@ I'm study Data analytics how student at International Polytechnic of Colombia ,s
 
   Currently my focus is analytics servers  -side applications and data infrastructure, machine learning including
 database management. I tend to work with full stack frameworks such as
-from React to backend frameworks like Django, Flask, and many more.
+from React to backend frameworks like Django, Flask, and many more..
   
 </details>      
 <details>
