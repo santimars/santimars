@@ -115,7 +115,7 @@ from React to backend frameworks like Django, Flask, and many more..
 
 <p><a href="https://www.buymeacoffee.com/santiagoesc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santiagoesc" /></a></p><br><br>
 
-
+.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
 
