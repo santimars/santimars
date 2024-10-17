@@ -9,7 +9,7 @@ I'm study Data analytics how student at International Polytechnic of Colombia ,s
 - Member of Society of Google Developer Groups
 - Lead developer/manager at [WRTO](https://github.com/W-R-T-O)
 - developer of  website projects building with Python
-- I have knowledge in Advanced Python
+- I have knowledge in Advanced Python.
 
   Currently my focus is analytics servers  -side applications and data infrastructure, machine learning including
 database management. I tend to work with full stack frameworks such as
