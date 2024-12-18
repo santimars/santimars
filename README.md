@@ -118,6 +118,7 @@ from React to backend frameworks like Django, Flask, and many more.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/santimars)  
+[study playlist](https://open.spotify.com/playlist/6g4nHvcAnAEgmnmwv9o7wY?si=b56c77d8ec20467f)
 
 </details>
 .
