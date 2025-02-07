@@ -7,7 +7,7 @@
 
 I'm study Data analytics how student at International Polytechnic of Colombia ,some of my positions include:
 - Member of Society of Google Developer Groups
-- Lead developer/manager at [WRTO](https://github.com/W-R-T-O)
+- Lead developer/manager at [orbisate](https://github.com/orbisate)
 - developer of  website projects building with Python
 - I have knowledge in Advanced Python.
 
