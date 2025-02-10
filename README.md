@@ -121,7 +121,7 @@ from React to backend frameworks like Django, Flask, and many more..
 [study playlist](https://open.spotify.com/playlist/6g4nHvcAnAEgmnmwv9o7wY?si=b56c77d8ec20467f)
 
 </details>
-.
+
 
 
 
